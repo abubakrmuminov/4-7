@@ -14,7 +14,7 @@ Input: uniteCrews(["Luke", "Leia"], ["Han", "Chewie"], ["R2-D2", "C-3PO"])
 Output: ["Luke", "Leia", "Han", "Chewie", "R2-D2", "C-3PO"]
 */
 function uniteCrews(...crews) {
-  // Sizning kodingiz bu yerga keladi
+  const crew = []
 }
 
 // Sokratik savollar:
